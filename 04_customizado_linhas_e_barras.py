@@ -1,7 +1,4 @@
-# ==================================================================================================================
-# gráfico de dispersão e linha + customizações de layout + salvar gráfico
-# ==================================================================================================================
-
+# Importa Biblioteca MatplotLib para geração de gráficos
 import matplotlib.pyplot as plt
 
 # Dados para montagem do gráfico
